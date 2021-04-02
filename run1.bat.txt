@@ -1,0 +1,4 @@
+cd d/ D:
+cd D:\Java Programs\inetBankingV1
+mvn clean intsall
+pause
